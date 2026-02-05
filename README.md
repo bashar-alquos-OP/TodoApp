@@ -1,2 +1,2 @@
 # TodoApp
-## Todo application using .NET project as a practice in OP 
+## Todo application using ASP .NET Core as a practice in OP 
